@@ -1,0 +1,14 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+	<Script file="zhCN\all.lua" />
+	<Script file="zhCN\WARRIOR\WARRIOR.lua" />
+	<Script file="zhCN\PRIEST\PRIEST.lua" />
+	<Script file="zhCN\DRUID\DRUID.lua" />
+	<Script file="zhCN\SHAMAN\SHAMAN.lua" />
+	<Script file="zhCN\PALADIN\PALADIN.lua" />
+	<Script file="zhCN\DEATHKNIGHT\DEATHKNIGHT.lua" />
+	<Script file="zhCN\HUNTER\HUNTER.lua" />
+	<Script file="zhCN\WARLOCK\WARLOCK.lua" />
+	<Script file="zhCN\ROGUE\ROGUE.lua" />
+	<Script file="zhCN\MAGE\MAGE.lua" />
+	
+</Ui>
